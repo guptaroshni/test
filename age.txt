@@ -1,2 +1,2 @@
-roshni gupta
-age 25
+console.log("roshni gupta")
+console.log("age 25")
